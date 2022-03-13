@@ -46,6 +46,7 @@ namespace P1_Sister_11116
             this.btSave = new System.Windows.Forms.Button();
             this.btOpen = new System.Windows.Forms.Button();
             this.btExit = new System.Windows.Forms.Button();
+            this.label1 = new System.Windows.Forms.Label();
             this.panel1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -218,11 +219,22 @@ namespace P1_Sister_11116
             this.btExit.UseVisualStyleBackColor = true;
             this.btExit.Click += new System.EventHandler(this.btExit_Click);
             // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.ForeColor = System.Drawing.SystemColors.ControlDark;
+            this.label1.Location = new System.Drawing.Point(12, 210);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(142, 13);
+            this.label1.TabIndex = 16;
+            this.label1.Text = "TP1-SISTER by 19SA11116";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(569, 236);
+            this.Controls.Add(this.label1);
             this.Controls.Add(this.btExit);
             this.Controls.Add(this.btOpen);
             this.Controls.Add(this.btSave);
@@ -234,6 +246,7 @@ namespace P1_Sister_11116
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
@@ -256,6 +269,7 @@ namespace P1_Sister_11116
         private System.Windows.Forms.Button btSave;
         private System.Windows.Forms.Button btOpen;
         private System.Windows.Forms.Button btExit;
+        private System.Windows.Forms.Label label1;
     }
 }
 

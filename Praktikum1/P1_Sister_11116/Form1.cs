@@ -15,6 +15,7 @@ namespace P1_Sister_11116
     {
         public Form1()
         {
+            //Inisialisasi program
             InitializeComponent();
             aktifkanTextbox(false);
             totalRecord();
@@ -62,6 +63,7 @@ namespace P1_Sister_11116
 
         private void updateDataArray()
         {
+            //Method ini digunakan untuk mengupdate data yang ada di dalam array Customer
             if (jmlCustomer > 0)
             {
                 string customer = "";
@@ -76,10 +78,12 @@ namespace P1_Sister_11116
 
         private void btOpen_Click(object sender, EventArgs e)
         {
+            //Method ini digunakan untuk membuka dan membaca file stream yang berformat txt
             OpenFileDialog dlgOpen = new OpenFileDialog();
             DialogResult pilih = dlgOpen.ShowDialog();
             if (pilih == DialogResult.OK)
             {
+                //Baca data file txtx
                 arrCustomer = File.ReadAllLines(dlgOpen.FileName);
                 jmlCustomer = arrCustomer.Length;
                 index = 0;
@@ -99,6 +103,7 @@ namespace P1_Sister_11116
 
         private void btSave_Click(object sender, EventArgs e)
         {
+            //Method ini digunakan untuk menyimpan data dari array ke dalam file txt
             updateDataArray();
             SaveFileDialog dlgSave = new SaveFileDialog();
             DialogResult pilih = dlgSave.ShowDialog();
@@ -113,6 +118,7 @@ namespace P1_Sister_11116
 
         private void btFirst_Click(object sender, EventArgs e)
         {
+            //Method ini digunakan untuk memuat data pertama didalam aray dan menampilkanya ke dalam textbox
             updateDataArray();
             if (jmlCustomer > 0)
             {
@@ -125,6 +131,7 @@ namespace P1_Sister_11116
 
         private void btPrev_Click(object sender, EventArgs e)
         {
+            //Method ini digunakan untuk memuat dan menampilkan data sebelumnya kedalam textbox
             updateDataArray();
             if (jmlCustomer > 0)
             {
@@ -142,6 +149,7 @@ namespace P1_Sister_11116
 
         private void btNext_Click(object sender, EventArgs e)
         {
+            //Method ini digunakan untuk memuat dan menampilkan data selanjutnya kedalam textbox
             updateDataArray();
             if (jmlCustomer > 0)
             {
@@ -158,6 +166,7 @@ namespace P1_Sister_11116
 
         private void btAdd_Click(object sender, EventArgs e)
         {
+            //Method ini digunakan untuk menambahkan data dari inputan textbox kedalam array
             aktifkanTextbox(true);
             updateDataArray();
             if (jmlCustomer == jmlMax)
@@ -175,6 +184,7 @@ namespace P1_Sister_11116
 
         private void btDelete_Click(object sender, EventArgs e)
         {
+            //Method ini digunakan untuk menghapus data berdasarkan index array dari data yang ditampilkan pada textbox 
             updateDataArray();
             if (jmlCustomer > 0)
             {
@@ -206,6 +216,7 @@ namespace P1_Sister_11116
 
         private void btLast_Click(object sender, EventArgs e)
         {
+            //Method ini digunakan untuk memuat dan menampilkan data terakhir kedalam textbox
             updateDataArray();
             if (jmlCustomer > 0)
             {
@@ -218,6 +229,7 @@ namespace P1_Sister_11116
 
         private void btExit_Click(object sender, EventArgs e)
         {
+            //Method ini digunakan untuk keluar dari aplikasi
             this.Close();
         }
     }
