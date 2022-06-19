@@ -8,4 +8,5 @@ Y:\Documents\Pemrograman\SMT6\Sistem Terdistribusi\Praktikum3\P3_Sister_1116\obj
 Y:\Documents\Pemrograman\SMT6\Sistem Terdistribusi\Praktikum3\P3_Sister_1116\obj\Debug\P3_Sister_1116.pdb
 Y:\Documents\Pemrograman\SMT6\Sistem Terdistribusi\Praktikum3\P3_Sister_1116\obj\Debug\P3_Sister_1116.serialCommunication.resources
 Y:\Documents\Pemrograman\SMT6\Sistem Terdistribusi\Praktikum3\P3_Sister_1116\obj\Debug\P3_Sister_1116.halamanDepan.resources
-Y:\Documents\Pemrograman\SMT6\Sistem Terdistribusi\Praktikum3\P3_Sister_1116\obj\Debug\P3_Sister_1116.csprojResolveAssemblyReference.cache
+Y:\Documents\Pemrograman\SMT6\Sistem Terdistribusi\Praktikum3\P3_Sister_1116\obj\Debug\P3_Sister_1116.csproj.AssemblyReference.cache
+Y:\Documents\Pemrograman\SMT6\Sistem Terdistribusi\Praktikum3\P3_Sister_1116\obj\Debug\P3_Sister_1116.csproj.CoreCompileInputs.cache

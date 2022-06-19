@@ -1,0 +1,9 @@
+c:\users\rizalhimself\documents\visual studio 2013\Projects\P51_Sister_1116\P51_Sister_1116\bin\Debug\P51_Sister_1116.exe.config
+c:\users\rizalhimself\documents\visual studio 2013\Projects\P51_Sister_1116\P51_Sister_1116\bin\Debug\P51_Sister_1116.exe
+c:\users\rizalhimself\documents\visual studio 2013\Projects\P51_Sister_1116\P51_Sister_1116\bin\Debug\P51_Sister_1116.pdb
+c:\users\rizalhimself\documents\visual studio 2013\Projects\P51_Sister_1116\P51_Sister_1116\obj\Debug\P51_Sister_1116.csprojResolveAssemblyReference.cache
+c:\users\rizalhimself\documents\visual studio 2013\Projects\P51_Sister_1116\P51_Sister_1116\obj\Debug\P51_Sister_1116.Form1.resources
+c:\users\rizalhimself\documents\visual studio 2013\Projects\P51_Sister_1116\P51_Sister_1116\obj\Debug\P51_Sister_1116.Properties.Resources.resources
+c:\users\rizalhimself\documents\visual studio 2013\Projects\P51_Sister_1116\P51_Sister_1116\obj\Debug\P51_Sister_1116.csproj.GenerateResource.Cache
+c:\users\rizalhimself\documents\visual studio 2013\Projects\P51_Sister_1116\P51_Sister_1116\obj\Debug\P51_Sister_1116.exe
+c:\users\rizalhimself\documents\visual studio 2013\Projects\P51_Sister_1116\P51_Sister_1116\obj\Debug\P51_Sister_1116.pdb
