@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AplikasiGameThread_1116", "AplikasiGameThread_1116.csproj", "{2EDE93A4-97D5-4C14-BDC6-8AB365403EEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EDE93A4-97D5-4C14-BDC6-8AB365403EEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EDE93A4-97D5-4C14-BDC6-8AB365403EEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EDE93A4-97D5-4C14-BDC6-8AB365403EEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EDE93A4-97D5-4C14-BDC6-8AB365403EEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6AE4E9EF-DCE1-4830-9AA8-672E29DF3295}
+	EndGlobalSection
+EndGlobal

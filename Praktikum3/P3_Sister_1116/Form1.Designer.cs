@@ -206,7 +206,9 @@ namespace P3_Sister_1116
             this.Controls.Add(this.btStartServer);
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.groupBox1);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Name = "Form1";
+            this.ShowIcon = false;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Chat Application";
             this.Load += new System.EventHandler(this.Form1_Load);

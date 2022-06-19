@@ -1,0 +1,14 @@
+Y:\Documents\Pemrograman\SMT6\Sistem Terdistribusi\Praktikum4\AplikasiThread_41116\bin\Debug\netcoreapp3.1\AplikasiThread_41116.exe
+Y:\Documents\Pemrograman\SMT6\Sistem Terdistribusi\Praktikum4\AplikasiThread_41116\bin\Debug\netcoreapp3.1\AplikasiThread_41116.deps.json
+Y:\Documents\Pemrograman\SMT6\Sistem Terdistribusi\Praktikum4\AplikasiThread_41116\bin\Debug\netcoreapp3.1\AplikasiThread_41116.runtimeconfig.json
+Y:\Documents\Pemrograman\SMT6\Sistem Terdistribusi\Praktikum4\AplikasiThread_41116\bin\Debug\netcoreapp3.1\AplikasiThread_41116.runtimeconfig.dev.json
+Y:\Documents\Pemrograman\SMT6\Sistem Terdistribusi\Praktikum4\AplikasiThread_41116\bin\Debug\netcoreapp3.1\AplikasiThread_41116.dll
+Y:\Documents\Pemrograman\SMT6\Sistem Terdistribusi\Praktikum4\AplikasiThread_41116\bin\Debug\netcoreapp3.1\AplikasiThread_41116.pdb
+Y:\Documents\Pemrograman\SMT6\Sistem Terdistribusi\Praktikum4\AplikasiThread_41116\obj\Debug\netcoreapp3.1\AplikasiThread_41116.csproj.AssemblyReference.cache
+Y:\Documents\Pemrograman\SMT6\Sistem Terdistribusi\Praktikum4\AplikasiThread_41116\obj\Debug\netcoreapp3.1\AplikasiThread_41116.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Documents\Pemrograman\SMT6\Sistem Terdistribusi\Praktikum4\AplikasiThread_41116\obj\Debug\netcoreapp3.1\AplikasiThread_41116.AssemblyInfoInputs.cache
+Y:\Documents\Pemrograman\SMT6\Sistem Terdistribusi\Praktikum4\AplikasiThread_41116\obj\Debug\netcoreapp3.1\AplikasiThread_41116.AssemblyInfo.cs
+Y:\Documents\Pemrograman\SMT6\Sistem Terdistribusi\Praktikum4\AplikasiThread_41116\obj\Debug\netcoreapp3.1\AplikasiThread_41116.csproj.CoreCompileInputs.cache
+Y:\Documents\Pemrograman\SMT6\Sistem Terdistribusi\Praktikum4\AplikasiThread_41116\obj\Debug\netcoreapp3.1\AplikasiThread_41116.dll
+Y:\Documents\Pemrograman\SMT6\Sistem Terdistribusi\Praktikum4\AplikasiThread_41116\obj\Debug\netcoreapp3.1\AplikasiThread_41116.pdb
+Y:\Documents\Pemrograman\SMT6\Sistem Terdistribusi\Praktikum4\AplikasiThread_41116\obj\Debug\netcoreapp3.1\AplikasiThread_41116.genruntimeconfig.cache

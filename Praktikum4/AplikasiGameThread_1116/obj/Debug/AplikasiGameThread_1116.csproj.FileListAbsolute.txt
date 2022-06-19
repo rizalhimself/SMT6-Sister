@@ -1,0 +1,9 @@
+Y:\Documents\Pemrograman\SMT6\Sistem Terdistribusi\Praktikum4\AplikasiGameThread_1116\bin\Debug\AplikasiGameThread_1116.exe.config
+Y:\Documents\Pemrograman\SMT6\Sistem Terdistribusi\Praktikum4\AplikasiGameThread_1116\bin\Debug\AplikasiGameThread_1116.exe
+Y:\Documents\Pemrograman\SMT6\Sistem Terdistribusi\Praktikum4\AplikasiGameThread_1116\bin\Debug\AplikasiGameThread_1116.pdb
+Y:\Documents\Pemrograman\SMT6\Sistem Terdistribusi\Praktikum4\AplikasiGameThread_1116\obj\Debug\AplikasiGameThread_1116.csproj.AssemblyReference.cache
+Y:\Documents\Pemrograman\SMT6\Sistem Terdistribusi\Praktikum4\AplikasiGameThread_1116\obj\Debug\AplikasiGameThread_1116.Form1.resources
+Y:\Documents\Pemrograman\SMT6\Sistem Terdistribusi\Praktikum4\AplikasiGameThread_1116\obj\Debug\AplikasiGameThread_1116.csproj.GenerateResource.cache
+Y:\Documents\Pemrograman\SMT6\Sistem Terdistribusi\Praktikum4\AplikasiGameThread_1116\obj\Debug\AplikasiGameThread_1116.csproj.CoreCompileInputs.cache
+Y:\Documents\Pemrograman\SMT6\Sistem Terdistribusi\Praktikum4\AplikasiGameThread_1116\obj\Debug\AplikasiGameThread_1116.exe
+Y:\Documents\Pemrograman\SMT6\Sistem Terdistribusi\Praktikum4\AplikasiGameThread_1116\obj\Debug\AplikasiGameThread_1116.pdb
