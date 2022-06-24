@@ -1,0 +1,6 @@
+c:\users\rizalhimself\documents\visual studio 2013\Projects\P71_Sister_WcfCalculator_1116\P71_Sister_WcfCalculator_1116\bin\P71_Sister_WcfCalculator_1116.dll.config
+c:\users\rizalhimself\documents\visual studio 2013\Projects\P71_Sister_WcfCalculator_1116\P71_Sister_WcfCalculator_1116\bin\P71_Sister_WcfCalculator_1116.dll
+c:\users\rizalhimself\documents\visual studio 2013\Projects\P71_Sister_WcfCalculator_1116\P71_Sister_WcfCalculator_1116\bin\P71_Sister_WcfCalculator_1116.pdb
+c:\users\rizalhimself\documents\visual studio 2013\Projects\P71_Sister_WcfCalculator_1116\P71_Sister_WcfCalculator_1116\obj\Debug\P71_Sister_WcfCalculator_1116.csprojResolveAssemblyReference.cache
+c:\users\rizalhimself\documents\visual studio 2013\Projects\P71_Sister_WcfCalculator_1116\P71_Sister_WcfCalculator_1116\obj\Debug\P71_Sister_WcfCalculator_1116.dll
+c:\users\rizalhimself\documents\visual studio 2013\Projects\P71_Sister_WcfCalculator_1116\P71_Sister_WcfCalculator_1116\obj\Debug\P71_Sister_WcfCalculator_1116.pdb

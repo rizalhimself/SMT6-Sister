@@ -7,3 +7,6 @@ c:\users\rizalhimself\documents\visual studio 2013\Projects\P51_Sister_1116\P51_
 c:\users\rizalhimself\documents\visual studio 2013\Projects\P51_Sister_1116\P51_Sister_1116\obj\Debug\P51_Sister_1116.csproj.GenerateResource.Cache
 c:\users\rizalhimself\documents\visual studio 2013\Projects\P51_Sister_1116\P51_Sister_1116\obj\Debug\P51_Sister_1116.exe
 c:\users\rizalhimself\documents\visual studio 2013\Projects\P51_Sister_1116\P51_Sister_1116\obj\Debug\P51_Sister_1116.pdb
+Y:\Documents\Pemrograman\SMT6\Sistem Terdistribusi\P51_Sister_1116\P51_Sister_1116\bin\Debug\P51_Sister_1116.exe.config
+Y:\Documents\Pemrograman\SMT6\Sistem Terdistribusi\P51_Sister_1116\P51_Sister_1116\obj\Debug\P51_Sister_1116.exe
+Y:\Documents\Pemrograman\SMT6\Sistem Terdistribusi\P51_Sister_1116\P51_Sister_1116\obj\Debug\P51_Sister_1116.pdb

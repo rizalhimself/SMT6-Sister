@@ -1,0 +1,9 @@
+c:\users\rizalhimself\documents\visual studio 2013\Projects\P71_Sister_ClientWcf_1116\P71_Sister_ClientWcf_1116\bin\Debug\P71_Sister_ClientWcf_1116.exe.config
+c:\users\rizalhimself\documents\visual studio 2013\Projects\P71_Sister_ClientWcf_1116\P71_Sister_ClientWcf_1116\bin\Debug\P71_Sister_ClientWcf_1116.exe
+c:\users\rizalhimself\documents\visual studio 2013\Projects\P71_Sister_ClientWcf_1116\P71_Sister_ClientWcf_1116\bin\Debug\P71_Sister_ClientWcf_1116.pdb
+c:\users\rizalhimself\documents\visual studio 2013\Projects\P71_Sister_ClientWcf_1116\P71_Sister_ClientWcf_1116\obj\Debug\P71_Sister_ClientWcf_1116.csprojResolveAssemblyReference.cache
+c:\users\rizalhimself\documents\visual studio 2013\Projects\P71_Sister_ClientWcf_1116\P71_Sister_ClientWcf_1116\obj\Debug\P71_Sister_ClientWcf_1116.Form1.resources
+c:\users\rizalhimself\documents\visual studio 2013\Projects\P71_Sister_ClientWcf_1116\P71_Sister_ClientWcf_1116\obj\Debug\P71_Sister_ClientWcf_1116.Properties.Resources.resources
+c:\users\rizalhimself\documents\visual studio 2013\Projects\P71_Sister_ClientWcf_1116\P71_Sister_ClientWcf_1116\obj\Debug\P71_Sister_ClientWcf_1116.csproj.GenerateResource.Cache
+c:\users\rizalhimself\documents\visual studio 2013\Projects\P71_Sister_ClientWcf_1116\P71_Sister_ClientWcf_1116\obj\Debug\P71_Sister_ClientWcf_1116.exe
+c:\users\rizalhimself\documents\visual studio 2013\Projects\P71_Sister_ClientWcf_1116\P71_Sister_ClientWcf_1116\obj\Debug\P71_Sister_ClientWcf_1116.pdb

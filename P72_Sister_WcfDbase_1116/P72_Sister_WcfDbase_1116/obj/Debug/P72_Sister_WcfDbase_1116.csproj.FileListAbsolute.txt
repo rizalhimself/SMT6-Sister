@@ -1,0 +1,6 @@
+C:\Users\rizalhimself\Documents\Visual Studio 2013\Projects\P72_Sister_WcfDbase_1116\P72_Sister_WcfDbase_1116\bin\P72_Sister_WcfDbase_1116.dll.config
+C:\Users\rizalhimself\Documents\Visual Studio 2013\Projects\P72_Sister_WcfDbase_1116\P72_Sister_WcfDbase_1116\bin\P72_Sister_WcfDbase_1116.dll
+C:\Users\rizalhimself\Documents\Visual Studio 2013\Projects\P72_Sister_WcfDbase_1116\P72_Sister_WcfDbase_1116\bin\P72_Sister_WcfDbase_1116.pdb
+C:\Users\rizalhimself\Documents\Visual Studio 2013\Projects\P72_Sister_WcfDbase_1116\P72_Sister_WcfDbase_1116\obj\Debug\P72_Sister_WcfDbase_1116.csprojResolveAssemblyReference.cache
+C:\Users\rizalhimself\Documents\Visual Studio 2013\Projects\P72_Sister_WcfDbase_1116\P72_Sister_WcfDbase_1116\obj\Debug\P72_Sister_WcfDbase_1116.dll
+C:\Users\rizalhimself\Documents\Visual Studio 2013\Projects\P72_Sister_WcfDbase_1116\P72_Sister_WcfDbase_1116\obj\Debug\P72_Sister_WcfDbase_1116.pdb
