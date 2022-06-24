@@ -1,0 +1,7 @@
+C:\Users\rizalhimself\source\repos\P5_Sister_1116\P5_Sister_1116\bin\P5_Sister_1116.dll.config
+C:\Users\rizalhimself\source\repos\P5_Sister_1116\P5_Sister_1116\bin\P5_Sister_1116.dll
+C:\Users\rizalhimself\source\repos\P5_Sister_1116\P5_Sister_1116\bin\P5_Sister_1116.pdb
+C:\Users\rizalhimself\source\repos\P5_Sister_1116\P5_Sister_1116\obj\Debug\P5_Sister_1116.csproj.AssemblyReference.cache
+C:\Users\rizalhimself\source\repos\P5_Sister_1116\P5_Sister_1116\obj\Debug\P5_Sister_1116.csproj.CoreCompileInputs.cache
+C:\Users\rizalhimself\source\repos\P5_Sister_1116\P5_Sister_1116\obj\Debug\P5_Sister_1116.dll
+C:\Users\rizalhimself\source\repos\P5_Sister_1116\P5_Sister_1116\obj\Debug\P5_Sister_1116.pdb
