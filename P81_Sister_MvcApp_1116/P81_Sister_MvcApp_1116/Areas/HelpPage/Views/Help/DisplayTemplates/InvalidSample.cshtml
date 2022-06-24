@@ -1,0 +1,13 @@
+@using P81_Sister_MvcApp_1116.Areas.HelpPage
+@model InvalidSample
+
+@if (HttpContext.Current.IsDebuggingEnabled)
+{
+    <div class="warning-message-container">
+        <p>@Model.ErrorMessage</p>
+    </div>
+}
+else
+{
+    <p>Sample not available.</p>
+}
